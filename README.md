@@ -15,7 +15,7 @@ AWS EC2 开机小助手，调用API创建EC2机器，减少因为浏览器指纹
 
 ## 在线使用
 
-[ec2.gakiyukr.net](http://ec2.gakiyukr.net/)
+[ec2.amex.my.id](https://ec2.amex.my.id/)
 
 ## 自行搭建
 
